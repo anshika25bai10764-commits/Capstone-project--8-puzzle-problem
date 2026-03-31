@@ -60,7 +60,7 @@ Misplaced Tiles
 ** How to Run**
 Step 1: Clone Repository
 Bash
-git clone https://github.com/your-username/8-puzzle-solver.git
+git clone https://github.com/anshika25bai10764-commits/8-puzzle-solver.git
 cd 8-puzzle-solver
 Step 2: Run the Program
 Bash
